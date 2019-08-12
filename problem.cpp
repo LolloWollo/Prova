@@ -4,7 +4,7 @@
 
 class Student
 {
-  std::string culo = "ti strappo la vagia";
+  std::string culo = "ti strappo l'ano a cappelle";
   std::string name;
   unsigned int id;
   unsigned int age;
