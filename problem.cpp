@@ -2,7 +2,7 @@
 #include <vector>
 #include "book.hh"
 
-class Student
+class Studento
 {
   std::string name;
   unsigned int id;
